@@ -132,6 +132,10 @@
   line-height: 25px;
 }
 
+.header__link {
+  display: inline-flex;
+}
+
 .description {
   display: flex;
   justify-content: center;
@@ -145,6 +149,7 @@
 }
 
 .two-columns__brief {
+  font-weight: 400;
   width: 175px;
   color: var(--color-accent);
   line-height: 1.2;
