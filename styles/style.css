@@ -132,25 +132,6 @@
   line-height: 25px;
 }
 
-.header__link {
-  display: inline-flex;
-}
-
-.link-icon {
-  fill: var(--color-accent);
-  align-self: center;
-}
-
-.header__link-icon {
-  width: 18px;
-  height: 18px;
-}
-
-.feynman__link-icon {
-  width: 50px;
-  height: 50px;
-}
-
 .description {
   display: flex;
   justify-content: center;
