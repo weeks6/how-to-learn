@@ -1,6 +1,6 @@
 .video {
   position: relative;
-  transform: translatey(70px);
+  transform: translateY(70px);
   padding-top: 30px;
   display: flex;
   flex-direction: column;
