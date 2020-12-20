@@ -1,3 +1,6 @@
+@import "../vendor/normalize.css";
+@import "../blocks/root/root.css";
+
 @import "../blocks/logo/logo.css";
 @import "../blocks/logo/_place/logo_place_header.css";
 @import "../blocks/logo/_place/logo_place_footer.css";
@@ -76,11 +79,3 @@
 
 @import "../blocks/footer/__author/footer__author.css";
 @import "../blocks/page/page.css";
-
-/* пока не знаю куда положить кастомные свойства */
-:root {
-  --color-bg-dark: #1f1f1f;
-  --color-bg-light: #f2f2f2;
-  --color-accent: #2f80ed;
-  --color-text: #000;
-}
